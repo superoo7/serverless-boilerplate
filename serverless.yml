@@ -59,8 +59,6 @@ provider:
 #    - exclude-me-dir/**
 
 functions:
-  functionName:
-    handler: handler
   hello:
     handler: handler.hello
 #    The following are a few example events you can configure
