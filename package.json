@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "handler.js",
+  "main": "src/handler.ts",
   "devDependencies": {
     "@types/jest": "^24.0.9",
     "serverless-plugin-typescript": "^1.1.5",

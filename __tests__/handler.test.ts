@@ -1,4 +1,4 @@
-import { hello } from "./../handler";
+import { hello } from "../handler";
 
 describe("handler", () => {
   it("hello function", async () => {
