@@ -4,13 +4,12 @@
   "description": "",
   "main": "handler.js",
   "devDependencies": {
+    "@types/jest": "^24.0.9",
     "serverless-plugin-typescript": "^1.1.5",
+    "ts-jest": "^24.0.0",
     "typescript": "^3.3.3333"
   },
-  "dependencies": {
-    "@types/jest": "^24.0.9",
-    "ts-jest": "^24.0.0"
-  },
+  "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
